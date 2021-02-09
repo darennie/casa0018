@@ -4,4 +4,4 @@ Arduino example based on the TensorFlow [micro_speech](https://github.com/tensor
 
 Video below shows an example deployed on Arduino Nano.
 
-[![Watch the video](https://img.https://youtu.be/SsrYxEEMN0M/maxresdefault.jpg)](https://youtu.be/SsrYxEEMN0M)
+[![Watch the video](https://youtu.be/SsrYxEEMN0M/maxresdefault.jpg)](https://youtu.be/SsrYxEEMN0M)
