@@ -1,6 +1,6 @@
 # Project Idea
 
-## Title: Does my pint need to be filling?
+## Title: Does my pint filling?
 
 ---
 
